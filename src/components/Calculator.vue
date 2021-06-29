@@ -3,7 +3,7 @@
   
   <div class="display">{{current || '0'}}</div>  
    
-   <div @click="clear" class = "btn">AC</div>  
+   <div @click="clear" class = "btn">CLEAR</div>  
    <div @click="sign" class = "btn">+-</div>  
    <div @click="percentage" class = "btn">%</div>  
    <div @click="divide" class = "btn operator">/</div>
